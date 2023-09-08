@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<div id="pingkg">
+</div>
+<script>
+var xhrds = new XMLHttpRequest();
+              var urlds = 'https://api.akuari.my.id/randomtext/bacott';
+              xhrds.onloadend = function(){
+             datads = JSON.parse(this.responseText);
+  document.getElementById("pingkg").textContent = datads.creator
+              };
+              xhrds.open("GET", urlds, true);
+              xhrds.send();
+
+</script>
+
+<div id="pingkg">
+</div>
+</body>
+</html>
