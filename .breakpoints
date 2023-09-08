@@ -1,0 +1,88 @@
+{
+  "files": {
+    ".replit": [
+      {
+        "id": "0714fa23-c4d9-416f-993c-33962eb05c59",
+        "line": 2,
+        "version": 1,
+        "index": 24
+      }
+    ],
+    "index.js": [
+      {
+        "id": "c7534d1c-ffb3-4143-97fc-30f761fdeb72",
+        "line": 42,
+        "version": 13,
+        "index": 1551
+      }
+    ],
+    "scraper/info.js": [
+      {
+        "id": "e307d833-50e5-419a-ba1d-8c62a114369f",
+        "line": 25,
+        "version": 30,
+        "index": 476
+      }
+    ],
+    "scraper/textpro.js": [
+      {
+        "id": "e4699ff1-68c5-42d7-a753-59408d5ea039",
+        "line": 57,
+        "version": 1,
+        "index": 1537
+      }
+    ],
+    "server/canvas.js": [
+      {
+        "id": "ae75012e-20b9-4857-ac68-b13f5bae0d14",
+        "line": 4,
+        "version": 3,
+        "index": 115
+      },
+      {
+        "id": "d2a5c517-8434-4c5d-8521-8f5101f9f0ae",
+        "line": 708,
+        "version": 3,
+        "index": 19024
+      }
+    ],
+    "server/downloader.js": [
+      {
+        "id": "52ed3fce-c45b-4d1c-a05a-dab03b744b8c",
+        "line": 210,
+        "version": 735,
+        "index": 7065
+      },
+      {
+        "id": "2fb71f78-9ce3-41c2-8847-e4d1d88fa2dd",
+        "line": 1369,
+        "version": 735,
+        "index": 37140
+      }
+    ],
+    "server/edukasi.js": [
+      {
+        "id": "180a3435-fd25-42e6-ae4f-62400031fd81",
+        "line": 271,
+        "version": 36,
+        "index": 5503
+      }
+    ],
+    "server/randomimage.js": [
+      {
+        "id": "9e8e3bc8-280d-4763-805b-0cc951024c3d",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      }
+    ],
+    "views/index.html": [
+      {
+        "id": "0ce05ce2-8d7a-410e-9501-1039902b5d6f",
+        "line": 1,
+        "version": 808,
+        "index": 0
+      }
+    ]
+  }
+}
